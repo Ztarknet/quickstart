@@ -1,0 +1,14 @@
+{
+  "name": "zstarknet-admin",
+  "version": "1.0.0",
+  "description": "Admin scripts for Ztarknet",
+  "main": "topup.js",
+  "scripts": {
+    "topup": "node topup.js"
+  },
+  "dependencies": {
+    "dotenv": "*",
+    "starknet": "8.7.0"
+  }
+}
+
