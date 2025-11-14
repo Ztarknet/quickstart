@@ -17,7 +17,7 @@ Install Starknet development suite (recommended way is via asdf):
 make account-create
 ```
 
-Go to the [faucet](https://github.com) and top up your account address.
+Go to the [faucet](https://faucet.ztarknet.cash/) and top up your account address.
 
 ```
 make account-deploy
